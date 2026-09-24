@@ -1,0 +1,21 @@
+id,name,neighbourhood,room_type,price
+1,Cozy Studio Downtown,Downtown,Entire home/apt,85
+2,Shared Room Near Park,Uptown,Private room,45
+3,Modern Loft with View,Downtown,Entire home/apt,120
+4,Budget Room,Suburbs,Shared room,30
+5,Family House,Suburbs,Entire home/apt,150
+6,Riverside Retreat,Riverside,Entire home/apt,135
+7,Compact Uptown Studio,Uptown,Entire home/apt,95
+8,Artsy Loft Downtown,Downtown,Private room,70
+9,Quiet Suburban Bungalow,Suburbs,Entire home/apt,110
+10,Old Town Guest Room,Old Town,Private room,55
+11,Modern Midtown Condo,Midtown,Entire home/apt,140
+12,Backpacker's Bunk,Downtown,Shared room,25
+13,Waterfront Cottage,Waterfront,Entire home/apt,175
+14,Charming Old Town Flat,Old Town,Entire home/apt,100
+15,Arts District Warehouse Loft,Arts District,Entire home/apt,160
+16,Riverside Shared House,Riverside,Shared room,35
+17,Midtown Business Suite,Midtown,Private room,90
+18,Suburban Family Retreat,Suburbs,Entire home/apt,130
+19,Uptown Penthouse View,Uptown,Entire home/apt,210
+20,Waterfront Private Room,Waterfront,Private room,80
