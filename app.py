@@ -6,7 +6,7 @@ import streamlit as st
 from src.data_loader import load_data
 from src.genai import analyze_listing, chat_answer, lexicon_label
 
-st.set_page_config(page_title="StayFinder - Airbnb Search", page_icon="🏡", layout="wide")
+st.set_page_config(page_title="Airbnb Finder - Airbnb Search", page_icon="🏡", layout="wide")
 
 # ---- Color palette (one place to change the whole look) ----
 INK, TEAL, TEAL_DARK, TEAL_LIGHT = "#1F2A37", "#0E7C86", "#0A5C64", "#E6F2F3"
@@ -168,8 +168,8 @@ def add_sentiment(d):
 
 df = add_sentiment(df)
 
-st.markdown('<div class="hero"><h1>🏡 StayFinder</h1><p>Find your perfect stay - search, compare, and ask our AI.</p></div>',
-            unsafe_allow_html=True)
+st.markdown('<div class="hero"><h1>🏡 Airbnb Finder</h1><p>Find your perfect stay - search, compare, and ask our AI.</p></div>',
+            unsafe_allow_html=True) 
 
 # ---------------- Sidebar filters ----------------
 sb = st.sidebar
